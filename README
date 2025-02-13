@@ -1,0 +1,12 @@
+# Weekly Temperature Tracker
+
+This Java program records and displays daily temperatures for a week.
+
+## How to Run:
+1. Compile: `javac WeeklyTemperatureTracker.java`
+2. Run: `java WeeklyTemperatureTracker`
+
+## Features:
+- Stores temperatures for each day.
+- Displays individual day temperatures.
+- Shows a weekly summary.
